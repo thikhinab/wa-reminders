@@ -1,0 +1,8 @@
+{
+    "title": "test",
+    "description": "",
+    "recurrence": {
+        "type": "daily"
+    },
+    "timezone": "Asia/Colombo"
+}

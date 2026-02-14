@@ -1,0 +1,13 @@
+0. Seting up group id, tasks and then Reminders
+(Load the tasks -> Create reminders)
+
+
+1. Daily Sending Messages
+(Check for Reminders for today or ones, that are pending.)
+- Send reminder and update message id and status
+
+
+2. Listening to reactions
+(Checking if sent messages have reactions)
+- Update reminder as completed, check task and create new reminder 
+
