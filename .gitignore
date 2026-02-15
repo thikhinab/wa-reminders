@@ -1,3 +1,5 @@
 node_modules/
 .wwebjs_*/
 reminders.db
+.env
+tasks.json

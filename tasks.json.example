@@ -1,8 +1,10 @@
-{
-    "title": "test",
-    "description": "",
-    "recurrence": {
-        "type": "daily"
-    },
-    "timezone": "Asia/Colombo"
-}
+[
+    {
+        "title": "test",
+        "description": "",
+        "recurrence": {
+            "type": "daily"
+        },
+        "timezone": "Asia/Colombo"
+    }
+]
